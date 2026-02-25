@@ -151,29 +151,23 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "15yo creature on the internet",
-    "only 15 years old, don't think about it",
+    "creature on the internet",
     "i don't have a brother",
-    "creator of some stupid mod",
-    "owner of goldentrophy software",
+    "creator of some stupid stuff",
+    "owner of Digital PXL",
 
     "403 forbidden",
-    "object reference not set to an instance of an object",
-    "winforms is so bad it's good",
 
-    "i support mostly everyone",
     "never underestimate yourself",
-    "check out my site: 127.0.0.1:3000",
+    "owner of Fairmont Studio",
 
-    "i hate cosine",
     "mechanical keyboards",
     "contacting the mothership",
 
-    "i <3 debian",
-    "i hate typescript",
+    "i hate scripts",
 
-    "admin@goldentrophy.software",
-    "hi nick"
+    "admin@digitalpxl.org",
+    "hi there"
   ];
   let bioText = '';
   let bioIndex = 0;
