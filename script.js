@@ -404,7 +404,7 @@ document.addEventListener('DOMContentLoaded', () => {
           gsap.to(javaBar, { width: '35%', duration: 2, ease: 'power2.out' });
           gsap.to(cssBar, { width: '70%', duration: 2, ease: 'power2.out' });
           gsap.to(htmlBar, { width: '65%', duration: 2, ease: 'power2.out' });
-          gsap.to(javascriptBar, { width: '75%', duration: 2, ease: 'power2.out' });
+          gsap.to(javascriptBar, { width: '45%', duration: 2, ease: 'power2.out' });
           gsap.to(nodejsBar, { width: '70%', duration: 2, ease: 'power2.out' });
           gsap.to(typescriptBar, { width: '40%', duration: 2, ease: 'power2.out' });
           gsap.to(csharpBar, { width: '15%', duration: 2, ease: 'power2.out' });
