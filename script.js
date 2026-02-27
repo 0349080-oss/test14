@@ -167,7 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "i hate scripts",
 
     "admin@digitalpxl.org",
-    "hi there"
+    "u stink"
   ];
   let bioText = '';
   let bioIndex = 0;
